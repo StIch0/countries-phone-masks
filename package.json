@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/ChristoPy/countries-phone-masks/issues"
   },
-  "homepage": "https://github.com/ChristoPy/countries-phone-masks#readme"
+  "homepage": "https://github.com/ChristoPy/countries-phone-masks#readme",
+  "devDependencies": {
+    "@types/node": "^16.10.2"
+  }
 }
